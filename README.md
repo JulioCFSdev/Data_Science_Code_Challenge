@@ -2,7 +2,7 @@
 
 Welcome to this data science challenge focused on exploratory data analysis (EDA) and pricing model development for short-term rentals in New York City! The goal of this challenge is to test your skills in solving real-world business problems, applying statistical concepts, and utilizing machine learning for predictive analysis.
 
-#### **Dataset: teste_indicium_precificacao**
+#### **Dataset: teste_indicium_precificacao.csv**
 
 ## Objectives:
 
