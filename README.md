@@ -26,20 +26,26 @@ The primary objectives of this challenge encompass:
 
 ```bash
 python -m venv venv
+```
 
 ```bash
 # activate your venv if your system is Windows
 venv\Scripts\activate
+```
 
 ```bash
 # activate your venv if your system is Unix or MacOS
 source venv/bin/activate
+```
 
 ```bash
 pip install -r requirements.txt
+```
 
 ```bash
 python app.py
+```
 
 ```bash
 venv\Scripts\activate
+```
