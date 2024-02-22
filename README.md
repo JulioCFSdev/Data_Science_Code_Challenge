@@ -21,5 +21,25 @@ The primary objectives of this challenge encompass:
 3. **Pricing Model Development:**
    - Develop a predictive pricing model using machine learning techniques.
    - Evaluate the model's performance using relevant metrics.
- 
- 
+
+## Configuring the Python Development Environment to run the application
+
+```bash
+python -m venv venv
+
+```bash
+# activate your venv if your system is Windows
+venv\Scripts\activate
+
+```bash
+# activate your venv if your system is Unix or MacOS
+source venv/bin/activate
+
+```bash
+pip install -r requirements.txt
+
+```bash
+python app.py
+
+```bash
+venv\Scripts\activate
